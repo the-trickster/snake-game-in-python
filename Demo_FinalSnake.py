@@ -1,3 +1,6 @@
+#SNAKE GAME IN PYTHON WITH DIFFERENT MODES 
+#BY KRISHNA RAMCHANDANI
+#
 import  pygame
 import random
 x=pygame.init()
